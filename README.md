@@ -25,7 +25,7 @@
 </head>
 <body>
   <header>
-    <h1>Ed Cleide Restaurante</h1>
+    <h1>EDCLEIDE - RESTAURANTE</h1>
     <p>O melhor acarajé da cidade, feito com amor e tradição!</p>
   </header>
 
