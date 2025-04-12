@@ -1,4 +1,3 @@
-# EDCLEIDE-RESTAURANTE
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -95,9 +94,9 @@
 
       document.getElementById('total').textContent = total.toFixed(2);
       mensagem += `%0ATotal: R$ ${total.toFixed(2)}`;
-      mensagem += `%0A%0AEndereço de entrega: ______________________`;
-      mensagem += `%0AObservações: _____________________________`;
-      finalizarLink.href = `https://wa.me/5599999999999?text=${mensagem}`;
+      mensagem += `%0A%0AEndereço de entrega:`;
+      mensagem += `%0AObservações:`;
+      finalizarLink.href = `https://wa.me/55934928973?text=${mensagem}`;
     }
   </script>
 </body>
