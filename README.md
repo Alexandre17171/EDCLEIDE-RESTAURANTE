@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Ed Cleide Restaurante - Acarajé online com entrega rápida e sabor garantido. Peça já pelo WhatsApp!" />
+  <meta name="description" content="ED CLEIDE - RESTAURANTE - Acarajé online com entrega rápida e sabor garantido. Peça já pelo WhatsApp!" />
   <meta name="keywords" content="acarajé, comida baiana, delivery de acarajé, restaurante online, Ed Cleide" />
   <meta name="author" content="ED CLEIDE - RESTAURANTE" />
   <title>Ed Cleide Restaurante</title>
