@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Ed Cleide Restaurante - Acarajé online com entrega rápida e sabor garantido. Peça já pelo WhatsApp!" />
   <meta name="keywords" content="acarajé, comida baiana, delivery de acarajé, restaurante online, Ed Cleide" />
-  <meta name="author" content="Ed Cleide Restaurante" />
+  <meta name="author" content="ED CLEIDE - RESTAURANTE" />
   <title>Ed Cleide Restaurante</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #fff8f0; color: #333; }
