@@ -45,7 +45,7 @@
     </div>
 
     <div class="produto">
-      <h3>Acarajé Vegano</h3>
+      <h3>Acarajé VeganO</h3>
       <p>Sem camarão, com recheios veganos e saborosos</p>
       <p><strong>R$ 12,00</strong></p>
       <button onclick="adicionarCarrinho('Acarajé Vegano', 12)">Adicionar ao carrinho</button>
